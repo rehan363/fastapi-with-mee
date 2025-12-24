@@ -1,0 +1,14 @@
+[project]
+name = "00fastapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "certifi>=2025.11.12",
+    "dnspython>=2.8.0",
+    "fastapi>=0.127.0",
+    "pydantic>=2.12.5",
+    "pymongo>=4.15.5",
+    "uvicorn>=0.40.0",
+]
